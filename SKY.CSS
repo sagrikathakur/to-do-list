@@ -1,0 +1,31 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: antiquewhite;
+    }
+    .task-list {
+      list-style: none;
+      padding: 0;
+    }
+    .task {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      margin: 5px 0;
+    }
+    .task.completed {
+      text-decoration: line-through;
+      color: gray;
+    }
+    .buttons {
+      display: flex;
+      gap: 5px;
+    }
+    button {
+      cursor: pointer;
+    }
+  
