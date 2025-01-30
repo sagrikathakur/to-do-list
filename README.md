@@ -1,5 +1,5 @@
 
-Project Title : TO DO LIST
-Description : SIMPLE TO DO LIST
-Technologies Used :HTML,CSS,JAVASCRIPTS
+Project Title : TO DO LIST <br>
+Description : SIMPLE TO DO LIST<br>
+Technologies Used :HTML,CSS,JAVASCRIPTS<br>
 Author :SAGRIKA
